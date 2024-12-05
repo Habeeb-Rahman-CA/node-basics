@@ -11,10 +11,15 @@
   "description": "",
   "dependencies": {
     "chalk": "^4.1.2",
+    "cowsay": "^1.6.0",
     "dotenv": "^16.4.7",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.8",
     "nodemon": "^3.1.7",
     "progress": "^2.0.3",
     "prompt-sync": "^4.2.0"
+  },
+  "optionalDependencies": {
+    "colors": "^1.4.0"
   }
 }
